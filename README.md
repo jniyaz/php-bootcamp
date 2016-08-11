@@ -1,1 +1,1 @@
-This tuts taks about PHP programming basics.
+This tuts covers about PHP programming basics.
