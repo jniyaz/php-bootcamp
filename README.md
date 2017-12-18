@@ -1,4 +1,4 @@
-# News App
+# PHP - OOPS
 
 - PHP Programming basics, intermediate and advance
 - We cover all the basic control structures, functions, arrays and etc in PHP.
